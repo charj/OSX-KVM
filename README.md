@@ -14,6 +14,8 @@ Known to work on:
 
 * Ubuntu 16.10 running on i7-3960X CPU.
 
+* Ubuntu 18.04.2 running on i7-8565U
+
 * Fedora 24 running on i5-6500 + i7-6600U CPU.
 
 Tested with QEMU 2.4.1, 2.5, 2.6.1, and 2.8.
